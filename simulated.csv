@@ -188,7 +188,7 @@
 186,A001_0186,Emily,Sheppard,Female,53,Georgia,Tbilisi,153.42,26.26,high school,0
 187,A001_0187,Latosha,Mook,Female,51,Saint Lucia,Castries,160.62,23.06,high school,0
 188,A001_0188,Edward,Guyton,Male,53,Kazakhstan,Astana,165.75,23.28,high school,0
-189,A001_0189,John,Mcgrath,Male,75,Western Sahara,El Aaiún,176.78,15.0,phD,0
+189,A001_0189,John,Mcgrath,Male,75,Western Sahara,El Aaiún,176.78,14.82,phD,0
 190,A001_0190,Christi,Watson,Female,35,Malta,Valletta,161.49,26.06,master,0
 191,A001_0191,Susan,Ragin,Female,50,Chile,Santiago,156.65,19.0,bachelor,0
 192,A001_0192,John,Homes,Male,63,Nauru,Yaren,175.26,27.78,master,0
@@ -256,7 +256,7 @@
 254,A001_0254,Kathleen,Milner,Female,74,Papua New Guinea,Port Moresby,155.36,43.9,master,1
 255,A001_0255,Betty,Paulsen,Female,71,Kosovo,Pristina,173.11,36.32,phD,1
 256,A001_0256,Theresa,Hansen,Female,39,Suriname,Paramaribo,164.56,27.38,master,0
-257,A001_0257,Mary,Dusel,Female,41,Bolivia,La Paz,160.5,15.0,master,0
+257,A001_0257,Mary,Dusel,Female,41,Bolivia,La Paz,160.5,13.2,master,0
 258,A001_0258,Brittany,Mitchell,Female,29,Croatia,Zagreb,154.95,32.57,master,1
 259,A001_0259,Lori,Palasik,Female,34,Grenada,St. George's,160.84,33.42,primary,1
 260,A001_0260,Esther,Moser,Female,37,Saint Pierre and Miquelon,St. Pierre,160.21,30.09,phD,1
@@ -367,7 +367,7 @@
 365,A001_0365,Diane,Collin,Female,79,Akrotiri and Dhekelia,Episkopi Cantonment,166.11,28.98,high school,0
 366,A001_0366,Felicia,Stephenson,Female,60,Cambodia,Phnom Penh,176.23,30.39,bachelor,1
 367,A001_0367,Robert,Rowe,Male,62,Malaysia,Kuala Lumpur,179.81,39.82,master,1
-368,A001_0368,Sandra,Schrader,Female,49,Kazakhstan,Astana,161.18,15.0,high school,0
+368,A001_0368,Sandra,Schrader,Female,49,Kazakhstan,Astana,161.18,10.21,high school,0
 369,A001_0369,Thomas,Hauman,Male,40,French Polynesia,Papeete,177.02,28.11,primary,0
 370,A001_0370,Jared,Rascoe,Male,43,Spain,Madrid,170.36,30.23,phD,1
 371,A001_0371,John,Hennemann,Male,41,Burundi,Bujumbura,172.73,19.93,primary,0
